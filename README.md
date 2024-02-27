@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here]([https://github.com/Belly606/social-links-profile](https://github.com/Belly606/Clipboard-landing-page))
-- Live Site URL: [live site URL here]([https://belly606.github.io/social-links-profile](https://belly606.github.io/Clipboard-landing-page/)/)
+- Solution URL: [[solution URL here](https://github.com/Belly606/Huddle-landing-page-with-curved-sections/)]
+- Live Site URL: [[live site URL here](https://belly606.github.io/Huddle-landing-page-with-curved-sections/)]
 
 ## My process
 
